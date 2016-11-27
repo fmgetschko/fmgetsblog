@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fernanda Getschko</title>
-    <link>https://fmgetschko.github.io/index.xml</link>
+    <link>https://fmgetschko.github.io/fmgetsblog/index.xml</link>
     <description>Recent content on Fernanda Getschko</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Nov 2016 18:53:37 +0200</lastBuildDate>
-    <atom:link href="https://fmgetschko.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fmgetschko.github.io/fmgetsblog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
-      <link>https://fmgetschko.github.io/about/</link>
+      <link>https://fmgetschko.github.io/fmgetsblog/about/</link>
       <pubDate>Sun, 27 Nov 2016 18:53:37 +0200</pubDate>
       
-      <guid>https://fmgetschko.github.io/about/</guid>
+      <guid>https://fmgetschko.github.io/fmgetsblog/about/</guid>
       <description>
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ullam earum dolorum! Sed, perspiciatis.&lt;/p&gt;
